@@ -1,3 +1,5 @@
+
+
 # Karunakar Uppalapati
 
 ## Welcome to My Profile!
@@ -10,7 +12,7 @@
 - **Collaborator:** I'm keen on partnering on projects at the intersection of health informatics, data analysis, and technological advancements in healthcare.
 
 ### 📬 Let's Connect!
-- **Email:** uppalapatikarunakar805@gmail.com
+- **Email:** [uppalapatikarunakar805@gmail.com](mailto:uppalapatikarunakar805@gmail.com)
 - **LinkedIn:** [Connect with me](your-linkedin-url) for collaborations or discussions.
 
 ### 👥 Personal Touch
@@ -25,8 +27,9 @@
 
 ## 🌟 My Projects
 
-### 1) Public Health Disease Surveillance Architecture Development Project
+### [Public Health Disease Surveillance Architecture Development Project](https://github.com/KUPPALAP/-Public-Health-Disease-Surveillance-Architecture-Development-Project)
 This project leverages cutting-edge data analytics and machine learning methodologies to enhance disease surveillance capabilities, significantly boosting public health infrastructure effectiveness.
 
-### 2) Leveraging Informatics for Promoting Healthy Lifestyle Choices
+### [Leveraging Informatics for Promoting Healthy Lifestyle Choices](https://github.com/KUPPALAP/Leveraging-Informatics-for-Promoting-Healthy-Lifestyle-Choices)
 Focused on digital wellness, this initiative emphasizes mindful technology use, emotional well-being, physical health, and social connections to enhance overall well-being in our tech-driven world.
+
