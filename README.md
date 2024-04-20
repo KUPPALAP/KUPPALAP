@@ -20,9 +20,9 @@
 - **Fun Fact:** I enjoy playing games, listening to music, and reading books.
 
 ### 💻 Technical Skills
-- **Python Programming**
-- **R Programming**
-- **Clinical Data Management**
+- **VMware, vSphere**
+- **Docker**
+- **Postman, API development skills**
 - **MySQL**
 
 ## 🌟 My Projects
